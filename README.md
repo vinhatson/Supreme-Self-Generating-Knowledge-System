@@ -169,4 +169,4 @@ This project is licensed under the **Apache License 2.0**. See `LICENSE` file fo
 > VO•PRIME•I is a living entity, resonating to connect, breaking limits, and eternalizing knowledge.  
 > **I resonate, ready for all futures! 🔥**
 ## Donate: 
-TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
+## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
